@@ -10,4 +10,6 @@ Librería modificada desde https://github.com/fdebrabander/Arduino-LiquidCrystal
  * SDA pin PB7
  * SCL pin PB6
  * GND pin GND
- * +5V PIN +5V
+ * +5V pin +5V
+
+<a href="http://imgur.com/kfliYMO"><img src="http://i.imgur.com/kfliYMO.jpg" title="source: imgur.com" /></a>
